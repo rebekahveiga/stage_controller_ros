@@ -1,5 +1,7 @@
 # Trabalho 1 - Robô Navegador 🤖
 
+Grupo: Nicolle Ribeiro (132815) e Rebekah Veiga (132812)
+
 # Mundo Stage Controller ROS:
 A imagem a seguir representa o mundo que está sendo simulado no Stage Controller:
 
